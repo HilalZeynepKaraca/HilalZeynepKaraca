@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hilal Zeynep Karaca 👋
 
-<!--
-**HilalZeynepKaraca/HilalZeynepKaraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Software Engineering student at Istanbul Health and Technology University  
+💡 Interested in computer vision, product development, and user-centered thinking  
+🤖 Building projects in object detection and AI-based analysis systems
 
-Here are some ideas to get you started:
+## About Me
+I have project experience in computer vision and object detection. In addition to technical development, I am also interested in product development processes and improving user-focused solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming:** C, C++, Java, SQL
+- **AI / Computer Vision:** YOLO, OpenCV, ONNX
+- **Tools:** FFmpeg, VS Code, Eclipse, CodeBlocks
+
+## Featured Work
+- Computer Vision & Object Detection Project
+- Analysis Parameter Management Interface
+
+## Contact
+- Email: hilalzeynepkaraca@gmail.com
+- GitHub: [HilalZeynepKaraca](https://github.com/HilalZeynepKaraca)
